@@ -40,7 +40,7 @@ This repository hosts the source code for TASTY_TOWN, a dynamic food ordering we
 
 ![Login](https://i.ibb.co/s6PgwkZ/food-login.png)
 - Login Popup
-
+- 
 ## Run Locally
 
 Clone the project
